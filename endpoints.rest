@@ -17,20 +17,19 @@ POST {{apiUrl}}recipe/add
 Content-Type: application/json
 
 {
-	"title": "Brown Sugar Apple Pie",
-	"image": "https://images.pexels.com/photos/5836631/pexels-photo-5836631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-	"description": "A delicious apple pie with a brown sugar twist.",
-	"ingredients": [
-		"Apples",
-		"Brown Sugar",
-		"Cinnamon",
-		"Nutmeg",
-		"Flour",
-		"Butter",
-		"Salt"
-	],
-	"instructions": "Peel and slice apples. Mix with brown sugar, cinnamon, and nutmeg. Pour into pie crust. Mix flour, butter, sugar, and salt. Pour over apples. Bake at 350 degrees for 45 minutes.",
-	"prepTime": 30,
-	"difficulty": "Easy"
+  "title": "Ice Cream Potato",
+  "image": "https://img.atlasobscura.com/9wjIlWh6TwBCZbCTzY4z-5h-AXGl6PVwzIrrF9Af_9U/rt:fit/w:1200/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3RoaW5n/X2ltYWdlcy80ZWQ3/ODNlMi1mZjcwLTQ0/NjEtYjc4NC04Mzc4/NmZlOTU4NThhNmY5/MmJmYzFlZGU5N2U2/YzNfQmFrZWRQb3Rh/dG9JY2VDcmVhbV9i/ZW5keWZyb2cuanBn.jpg",
+  "description": "A whimsical dessert resembling a baked potato, made entirely of ice cream and toppings.",
+  "ingredients": [
+    "Vanilla ice cream",
+    "Cocoa powder",
+    "Whipped cream",
+    "Chocolate shavings",
+    "Chocolate syrup",
+    "Yellow frosting (optional)",
+    "Green sprinkles (optional)"
+  ],
+  "instructions": "1. Shape the vanilla ice cream into a potato-like form and freeze until firm. 2. Roll the frozen ice cream in cocoa powder to create a 'potato skin' appearance. 3. Place the cocoa-coated ice cream on a plate. 4. Slice the top open lengthwise, as you would with a baked potato. 5. Pipe whipped cream into the opening to resemble sour cream. 6. Sprinkle chocolate shavings over the whipped cream. 7. Drizzle chocolate syrup on top. 8. For added effect, use yellow frosting to mimic butter and green sprinkles for chives.",
+  "prepTime": 20,
+  "difficulty": "Easy"
 }
-	
